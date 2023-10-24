@@ -1,7 +1,6 @@
--
 [Source: Ofir Press](https://ofir.io/The-Use-Case-for-Relative-Position-Embeddings/)
 
-![[relative-its-cleaner.jpg]]
+![](relative-its-cleaner.jpg)
 
 > We’re in 2022 but many of our most popular causal language models (LMs), including GPT-3, still use absolute positional embeddings. I believe we should stop using those and move to relative positional embeddings such as ALiBi.
 
@@ -12,8 +11,8 @@
 > *Can’t I just use an absolute position method and a sliding window to extrapolate?*
 > Short answer: Depending on how you implement this, it either won’t work or will be very very inefficient.
 
-![[absolute-embedding-sliding-window-1.png]]
-![[absolute-embedding-sliding-window-2.png]]
+![](absolute-embedding-sliding-window-1.png)
+![](absolute-embedding-sliding-window-2.png)
 
 > I have a toy input sentence here with a toy language model, whose context size is 4 tokens. We see two subsequent inference passes.
 
