@@ -3,7 +3,7 @@ These are notes for a Paper Club meeting that I lead on 2023/08/09
 
 The discussion is about the `Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation` paper
 
-Related Papers: 
+Related Papers:
 	`Train Short, Test Long` https://arxiv.org/abs/2108.12409
 	`Lost in the Middle` https://arxiv.org/abs//2307.03172
 
