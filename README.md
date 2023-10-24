@@ -23,3 +23,6 @@ Preparation
 - Research [Claude's 100k context](https://www.reddit.com/r/ChatGPTPro/comments/14zn6i1/had_claude_2_explain_the_100k_context_window_if/)
 - Reference videos on the subject of ALiBi
 - compare ALiBi to RoPE
+
+**TODO:** Convert pdf highlights in [[PDF Train Short, Test Long - ALiBi]] to markdown
+**TODO:** Convert tweets to screenshots with links in [[ALiBi vs RoPE]]
