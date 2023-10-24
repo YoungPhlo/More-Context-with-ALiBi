@@ -24,5 +24,5 @@ Preparation
 - Reference videos on the subject of ALiBi
 - compare ALiBi to RoPE
 
-**TODO:** Convert pdf highlights in [[PDF Train Short, Test Long - ALiBi]] to markdown
-**TODO:** Convert tweets to screenshots with links in [[ALiBi vs RoPE]]
+**TODO:** Convert pdf highlights in [PDF Train Short, Test Long - ALiBi](PDF Train Short, Test Long - ALiBi.md) to markdown  
+**TODO:** Convert tweets to screenshots with links in [ALiBi vs RoPE](ALiBi vs RoPE.md)
