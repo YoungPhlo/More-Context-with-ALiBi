@@ -1,6 +1,6 @@
 This dataset is a collection of over 100 million tokens extracted from the set of verified 'Good' and 'Featured' articles on Wikipedia
 
-![[memes/the-datasets.jpg]]
+![](memes/the-datasets.jpg)
 ### Examples
 
 = [Gold dollar](https://en.wikipedia.org/wiki/Gold_dollar) =
